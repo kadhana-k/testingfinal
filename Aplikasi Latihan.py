@@ -1,5 +1,5 @@
 import streamlit as st
-import joblib
+import joblib 
 import numpy as np
 
 #Memuat model regresi linear yang sudah disimpan
